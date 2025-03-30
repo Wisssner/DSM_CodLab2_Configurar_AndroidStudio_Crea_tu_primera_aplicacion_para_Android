@@ -21,7 +21,8 @@ Este proyecto es el resultado del codelab ["Cómo crear tu primera app para Andr
 7️⃣ **Revisión y solución de errores** antes de la ejecución final.<br>
 
 ## 🖥️ Captura de Pantalla del Resultado
-*(Agrega aquí la imagen del resultado final de la app)*
+*![image](https://github.com/user-attachments/assets/cbffdb7f-8825-453e-95e1-94172225d3e1)
+*
 
 ## 🚀 Conclusión
 Este codelab permitió comprender los conceptos básicos de Jetpack Compose y cómo construir una interfaz dinámica en Android. La experiencia adquirida servirá como base para futuros desarrollos más complejos.
